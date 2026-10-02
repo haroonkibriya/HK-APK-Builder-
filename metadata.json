@@ -1,0 +1,6 @@
+{
+  "name": "HK APK Builder",
+  "description": "Convert any deployed web app into an Android APK with live URL analysis, custom package configuration, and one-click build pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
